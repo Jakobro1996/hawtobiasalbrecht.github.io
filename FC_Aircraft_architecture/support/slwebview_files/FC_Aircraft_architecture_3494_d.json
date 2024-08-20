@@ -1,0 +1,244 @@
+[
+ {
+  "sid":"FC_Aircraft_architecture:3494#lconn:1",
+  "inspector":{
+   "params":[
+    "Name",
+    "Name",
+    "Action"
+   ],
+   "values":[
+    "Drehmomentabstützung",
+    "<inherit>",
+    "Physical"
+   ],
+   "tabs":[
+    "Main",
+    "Interface"
+   ],
+   "tabs_idx":[
+    0,
+    1
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":[
+  ]
+ },
+ {
+  "sid":"FC_Aircraft_architecture:3498",
+  "inspector":{
+   "params":[
+    "Name",
+    "<No properties defined in stereotype>",
+    "cost",
+    "constructionSpace",
+    "weight",
+    "power",
+    "voltage",
+    "current",
+    "costFactor",
+    "ATA_Chapter",
+    "Owner",
+    "No parameters defined"
+   ],
+   "values":[
+    "Cowling",
+    "",
+    "0 €",
+    "0 m^3",
+    "0 kg",
+    "0 W",
+    "0 V",
+    "0 A",
+    "1 ",
+    "'071.10 Cowling'",
+    "'Breezer'",
+    ""
+   ],
+   "tabs":[
+    "Main",
+    "Stereotype : Breezer",
+    "Stereotype : System",
+    "Stereotype : Metadaten",
+    "Parameters"
+   ],
+   "tabs_idx":[
+    0,
+    1,
+    2,
+    9,
+    11
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":{
+   "blocktype":"SubSystem",
+   "masktype":""
+  }
+ },
+ {
+  "sid":"FC_Aircraft_architecture:3497",
+  "inspector":{
+   "params":[
+    "Name",
+    "<No properties defined in stereotype>",
+    "cost",
+    "constructionSpace",
+    "weight",
+    "power",
+    "voltage",
+    "current",
+    "costFactor",
+    "ATA_Chapter",
+    "Owner",
+    "No parameters defined"
+   ],
+   "values":[
+    "Motorträger",
+    "",
+    "0 €",
+    "0 m^3",
+    "0 kg",
+    "0 W",
+    "0 V",
+    "0 A",
+    "1 ",
+    "'071.21 Motorträger'",
+    "'Breezer'",
+    ""
+   ],
+   "tabs":[
+    "Main",
+    "Stereotype : Breezer",
+    "Stereotype : System",
+    "Stereotype : Metadaten",
+    "Parameters"
+   ],
+   "tabs_idx":[
+    0,
+    1,
+    2,
+    9,
+    11
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":{
+   "blocktype":"SubSystem",
+   "masktype":""
+  }
+ },
+ {
+  "sid":"FC_Aircraft_architecture:3496",
+  "inspector":{
+   "params":[
+    "Name",
+    "<No properties defined in stereotype>",
+    "cost",
+    "constructionSpace",
+    "weight",
+    "power",
+    "voltage",
+    "current",
+    "costFactor",
+    "ATA_Chapter",
+    "Owner",
+    "No parameters defined"
+   ],
+   "values":[
+    "Rumpf",
+    "",
+    "0 €",
+    "0 m^3",
+    "0 kg",
+    "0 W",
+    "0 V",
+    "0 A",
+    "1 ",
+    "'053 Rumpf'",
+    "'Breezer'",
+    ""
+   ],
+   "tabs":[
+    "Main",
+    "Stereotype : Breezer",
+    "Stereotype : System",
+    "Stereotype : Metadaten",
+    "Parameters"
+   ],
+   "tabs_idx":[
+    0,
+    1,
+    2,
+    9,
+    11
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":{
+   "blocktype":"SubSystem",
+   "masktype":""
+  }
+ },
+ {
+  "sid":"FC_Aircraft_architecture:3495",
+  "inspector":[
+  ],
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":{
+   "blocktype":"PMIOPort",
+   "masktype":""
+  }
+ },
+ {
+  "sid":"FC_Aircraft_architecture:3495#rconn:1",
+  "inspector":{
+   "params":[
+    "Name",
+    "Name",
+    "Action"
+   ],
+   "values":[
+    "Drehmomentabstützung",
+    "<inherit>",
+    "Physical"
+   ],
+   "tabs":[
+    "Main",
+    "Interface"
+   ],
+   "tabs_idx":[
+    0,
+    1
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":[
+  ]
+ }
+]
